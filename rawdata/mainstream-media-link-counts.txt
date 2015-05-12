@@ -1,3 +1,4 @@
+Time Interval	Source	Target	Weight
 200510	westernblockparty.com	nationalpost	291
 200510	westernblockparty.com	globeandmail	264
 200510	partimarijuana.org	radio-canada	8
