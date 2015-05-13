@@ -1,3 +1,4 @@
+Time Interval	Source	Target	Weight
 200510	cpcml.ca	ndp	24
 200510	greenparty.ca	ndp	16
 200510	liberal.ca	liberal	1341

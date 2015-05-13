@@ -1,3 +1,4 @@
+TimeInterval	Source	Target	Weight
 200510	wegovern.ca	policyalternatives	14
 200510	wegovern.ca	cwf	7
 200510	greenparty.ca	fcpp	90
